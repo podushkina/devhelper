@@ -122,9 +122,7 @@ devhelper/
 │   ├── utils/            # Общие утилиты
 │   │   └── utils.go
 │   └── config/           # Конфигурация
-│       └── config.go
-├── tests/                # Тесты
-│   └── integration/      # Интеграционные тесты
+│       └── config.go  
 ├── Makefile              # Инструкции для сборки
 └── go.mod                # Описание модуля
 ```
